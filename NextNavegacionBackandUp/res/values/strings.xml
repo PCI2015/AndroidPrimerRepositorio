@@ -3,9 +3,9 @@
 
     <string name="app_name">NextNavegacionBackandUp</string>
     <string name="hello_world">Hello world!</string>
-    <string name="Seccion1">SeccionGitHub 1</string>
-    <string name="Seccion2">SeccionGitHub 2</string>
-    <string name="Seccion3">seccionGitHub 3</string>
+    <string name="Seccion1">Seccion 1</string>
+    <string name="Seccion2">Seccion 2</string>
+    <string name="Seccion3">seccion 3</string>
     <string name="action_settings">Settings</string>
 
 </resources>
